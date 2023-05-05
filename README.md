@@ -5,7 +5,7 @@ An open source terminal based bitcoin only wallet made in python.
 
 Commands:
 
-`reg` or `register`: to register and get a unique login id.
+`reg` or `register`: to register and get a unique login id.\n
 `login <YOUR_UNIQUE_LOGIN_ID>`: to login your wallet
 `address`: to get your BTC address.
 `bal` or `balance`: to get your current wallet balance.
